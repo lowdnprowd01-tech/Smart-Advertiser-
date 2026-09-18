@@ -1,0 +1,6 @@
+{
+  "name": "LaunchPilot",
+  "description": "AI growth strategist for indie developers. Generate launch diagnosis, promotion strategy, and ready-to-post content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
